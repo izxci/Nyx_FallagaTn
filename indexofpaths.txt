@@ -8,7 +8,7 @@ up/
 wp/
 NEW/
 OLD/
-Tmp/
+Tmps/
 bac/
 bak/
 cms/
